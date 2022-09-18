@@ -1,5 +1,3 @@
-import java.util.Random;
-
 /**
  * There is description of room, which should be left
  */
