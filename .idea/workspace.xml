@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ba03a7c-bd83-44cb-b4d2-2762f4f37970" name="Changes" comment="updated workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectsInRoom.java" afterDir="false" />
+    <list default="true" id="3ba03a7c-bd83-44cb-b4d2-2762f4f37970" name="Changes" comment="Added description of chest and abstract class ObjectsInTheRoom, also created method for generating of location objects.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectsInRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectsInRoom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Room.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663470599959</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added description of chest and abstract class ObjectsInTheRoom, also created method for generating of location objects.">
+      <created>1663473289727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663473289727</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +114,7 @@
     <MESSAGE value="Game is started" />
     <MESSAGE value="Drawed a room" />
     <MESSAGE value="updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated workspace.xml" />
+    <MESSAGE value="Added description of chest and abstract class ObjectsInTheRoom, also created method for generating of location objects." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added description of chest and abstract class ObjectsInTheRoom, also created method for generating of location objects." />
   </component>
 </project>

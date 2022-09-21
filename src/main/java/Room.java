@@ -3,6 +3,7 @@
  */
 public class Room {
     private int sideOfSquare;
+    private String map;
     public Room(){
         this.sideOfSquare = (int) (Math.random()*6)+2;
     }
@@ -31,6 +32,11 @@ public class Room {
         for (int i = 0; i < sideOfSquare; i++) {
             result += "---";
         }
+        this.map = result;
         return result;
+    }
+
+    public String getMap() {
+        return map;
     }
 }
